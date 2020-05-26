@@ -1,9 +1,0 @@
-Data
-
-The data that I need for this project is:
-
-    -A Geojson map of Quito
-        -This data should be divided by "Parroquias"
-    -The Health Facilities data provided by Foursquare.
-
-Once I have that information, everything is ready to do the analysis.
